@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Six+Caps&display=swap');
+:root{
+    font-family: 'Six Caps', sans-serif;
+}
+body header img{
+    height: 70px;
+}
